@@ -1,0 +1,266 @@
+[17-Feb-2024 04:50:20 America/New_York] PHP Parse error:  syntax error, unexpected 'PHP_SELF' (T_STRING), expecting ';' or ',' in /home/olegfedyshyn/business.minivns.me/index.php on line 25
+[17-Feb-2024 04:50:25 America/New_York] PHP Parse error:  syntax error, unexpected 'PHP_SELF' (T_STRING), expecting ';' or ',' in /home/olegfedyshyn/business.minivns.me/index.php on line 25
+[19-Mar-2024 07:37:45 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 07:38:02 America/New_York] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/olegfedyshyn/business.minivns.me/logout.php on line 5
+[19-Mar-2024 07:38:06 America/New_York] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/olegfedyshyn/business.minivns.me/logout.php on line 5
+[19-Mar-2024 07:38:11 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 07:38:13 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 07:39:00 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 07:39:08 America/New_York] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/olegfedyshyn/business.minivns.me/logout.php on line 5
+[19-Mar-2024 07:39:12 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 07:39:41 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 07:39:51 America/New_York] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/olegfedyshyn/business.minivns.me/logout.php on line 5
+[19-Mar-2024 07:39:53 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 07:41:00 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 07:41:02 America/New_York] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/olegfedyshyn/business.minivns.me/logout.php on line 5
+[19-Mar-2024 07:41:16 America/New_York] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home/olegfedyshyn/business.minivns.me/logout.php on line 5
+[19-Mar-2024 07:41:55 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 07:42:09 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 07:42:25 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 07:43:05 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 07:58:19 America/New_York] PHP Parse error:  syntax error, unexpected '"olegfedyshyn_webdevdb"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 07:59:09 America/New_York] PHP Warning:  mysqli_connect() expects parameter 5 to be int, string given in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 07:59:09 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 11
+[19-Mar-2024 07:59:09 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 12
+[19-Mar-2024 07:59:09 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 16
+[19-Mar-2024 07:59:09 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 19
+[19-Mar-2024 07:59:09 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 29
+[19-Mar-2024 08:01:03 America/New_York] PHP Warning:  mysqli_connect() expects parameter 5 to be int, string given in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 08:01:03 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 11
+[19-Mar-2024 08:01:03 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 12
+[19-Mar-2024 08:01:03 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 16
+[19-Mar-2024 08:01:03 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 19
+[19-Mar-2024 08:01:03 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 29
+[19-Mar-2024 08:01:08 America/New_York] PHP Warning:  mysqli_connect() expects parameter 5 to be int, string given in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 08:01:08 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 11
+[19-Mar-2024 08:01:08 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 12
+[19-Mar-2024 08:01:08 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 16
+[19-Mar-2024 08:01:08 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 19
+[19-Mar-2024 08:01:08 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 29
+[19-Mar-2024 08:22:38 America/New_York] PHP Warning:  mysqli_connect() expects parameter 5 to be int, string given in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 08:22:38 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 11
+[19-Mar-2024 08:22:38 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 12
+[19-Mar-2024 08:22:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 16
+[19-Mar-2024 08:22:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 19
+[19-Mar-2024 08:22:38 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 29
+[19-Mar-2024 08:24:43 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 19
+[19-Mar-2024 08:24:49 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 19
+[19-Mar-2024 08:25:05 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 19
+[19-Mar-2024 08:25:13 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 19
+[19-Mar-2024 08:29:33 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 19
+[19-Mar-2024 08:31:02 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'olegfedyshyn@localhost'@'localhost' (using password: YES) in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 08:31:02 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 11
+[19-Mar-2024 08:31:02 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 12
+[19-Mar-2024 08:31:02 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 16
+[19-Mar-2024 08:31:02 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 19
+[19-Mar-2024 08:31:02 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 29
+[19-Mar-2024 08:35:19 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ';' or ',' in /home/olegfedyshyn/business.minivns.me/login.php on line 11
+[19-Mar-2024 08:35:45 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'olegfedyshyn@localhost'@'localhost' (using password: YES) in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 08:35:45 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 13
+[19-Mar-2024 08:35:45 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 14
+[19-Mar-2024 08:35:45 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 18
+[19-Mar-2024 08:35:45 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 21
+[19-Mar-2024 08:35:45 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 31
+[19-Mar-2024 08:36:10 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'olegfedyshyn@localhost'@'localhost' (using password: YES) in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 08:36:10 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 13
+[19-Mar-2024 08:36:10 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 14
+[19-Mar-2024 08:36:10 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 18
+[19-Mar-2024 08:36:10 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 21
+[19-Mar-2024 08:36:10 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 31
+[19-Mar-2024 08:36:12 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'olegfedyshyn@localhost'@'localhost' (using password: YES) in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 08:36:12 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 13
+[19-Mar-2024 08:36:12 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 14
+[19-Mar-2024 08:36:12 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 18
+[19-Mar-2024 08:36:12 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 21
+[19-Mar-2024 08:36:12 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 31
+[19-Mar-2024 08:36:16 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'olegfedyshyn@localhost'@'localhost' (using password: YES) in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 08:36:16 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 13
+[19-Mar-2024 08:36:16 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 14
+[19-Mar-2024 08:36:16 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 18
+[19-Mar-2024 08:36:16 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 21
+[19-Mar-2024 08:36:16 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 31
+[19-Mar-2024 08:37:00 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'olegfedyshyn@localhost'@'localhost' (using password: YES) in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 08:37:00 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 13
+[19-Mar-2024 08:37:00 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 14
+[19-Mar-2024 08:37:00 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 18
+[19-Mar-2024 08:37:00 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 21
+[19-Mar-2024 08:37:00 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 31
+[19-Mar-2024 08:38:28 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'olegfedyshyn@localhost'@'localhost' (using password: YES) in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 08:38:28 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 13
+[19-Mar-2024 08:38:28 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 14
+[19-Mar-2024 08:38:28 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 18
+[19-Mar-2024 08:38:28 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 21
+[19-Mar-2024 08:38:28 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 31
+[19-Mar-2024 08:38:30 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'olegfedyshyn@localhost'@'localhost' (using password: YES) in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 08:38:30 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 13
+[19-Mar-2024 08:38:30 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 14
+[19-Mar-2024 08:38:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 18
+[19-Mar-2024 08:38:30 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 21
+[19-Mar-2024 08:38:30 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 31
+[19-Mar-2024 08:39:04 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'olegfedyshyn@localhost'@'localhost' (using password: YES) in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 08:39:04 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 13
+[19-Mar-2024 08:39:04 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 14
+[19-Mar-2024 08:39:04 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 18
+[19-Mar-2024 08:39:04 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 21
+[19-Mar-2024 08:39:04 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 31
+[19-Mar-2024 08:40:37 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'olegfedyshyn@localhost'@'localhost' (using password: YES) in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 08:40:37 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 18
+[19-Mar-2024 08:40:37 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 19
+[19-Mar-2024 08:40:37 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 23
+[19-Mar-2024 08:40:37 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 26
+[19-Mar-2024 08:40:37 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 36
+[19-Mar-2024 08:43:30 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'olegfedyshyn@localhost'@'localhost' (using password: YES) in /home/olegfedyshyn/business.minivns.me/login.php on line 6
+[19-Mar-2024 08:43:30 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 18
+[19-Mar-2024 08:43:30 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 19
+[19-Mar-2024 08:43:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 23
+[19-Mar-2024 08:43:30 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/olegfedyshyn/business.minivns.me/login.php on line 26
+[19-Mar-2024 08:43:30 America/New_York] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 36
+[19-Mar-2024 08:43:39 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 26
+[19-Mar-2024 08:45:24 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 29
+[19-Mar-2024 08:46:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 28
+[19-Mar-2024 08:46:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 30
+[19-Mar-2024 08:54:33 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 28
+[19-Mar-2024 08:54:33 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 31
+[19-Mar-2024 08:54:36 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 28
+[19-Mar-2024 08:54:36 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 31
+[19-Mar-2024 08:55:11 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 27
+[19-Mar-2024 08:55:11 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/login.php on line 31
+[19-Mar-2024 08:55:48 America/New_York] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/olegfedyshyn/business.minivns.me/login.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/olegfedyshyn/business.minivns.me/login.php on line 29
+[19-Mar-2024 08:55:50 America/New_York] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/olegfedyshyn/business.minivns.me/login.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/olegfedyshyn/business.minivns.me/login.php on line 29
+[19-Mar-2024 09:23:14 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 17
+[19-Mar-2024 09:23:14 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:23:14 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:23:14 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:23:25 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 17
+[19-Mar-2024 09:23:25 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:23:25 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:23:25 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:24:00 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 17
+[19-Mar-2024 09:24:00 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:24:00 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:24:00 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:29:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 17
+[19-Mar-2024 09:29:38 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:29:38 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:29:38 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:29:43 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 17
+[19-Mar-2024 09:29:43 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:29:43 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:29:43 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:30:39 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 17
+[19-Mar-2024 09:30:39 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:30:39 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:30:39 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:31:04 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 17
+[19-Mar-2024 09:31:04 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:31:04 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:31:04 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:34:02 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 17
+[19-Mar-2024 09:34:02 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:34:02 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:34:02 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:34:04 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 17
+[19-Mar-2024 09:34:04 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:34:04 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:34:04 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 25
+[19-Mar-2024 09:35:29 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 17
+[19-Mar-2024 09:35:29 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 22
+[19-Mar-2024 09:35:29 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 26
+[19-Mar-2024 09:35:29 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 26
+[19-Mar-2024 09:35:29 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 26
+[19-Mar-2024 09:35:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 17
+[19-Mar-2024 09:35:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 22
+[19-Mar-2024 09:35:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 26
+[19-Mar-2024 09:35:55 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 26
+[19-Mar-2024 09:35:55 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 26
+[19-Mar-2024 09:35:58 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 17
+[19-Mar-2024 09:35:58 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 22
+[19-Mar-2024 09:35:58 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 26
+[19-Mar-2024 09:35:58 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 26
+[19-Mar-2024 09:35:58 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 26
+[19-Mar-2024 09:41:23 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 27
+[19-Mar-2024 09:41:23 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 27
+[19-Mar-2024 09:41:50 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 27
+[19-Mar-2024 09:41:50 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 27
+[19-Mar-2024 09:44:06 America/New_York] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ';' or ',' in /home/olegfedyshyn/business.minivns.me/logup.php on line 19
+[19-Mar-2024 09:44:08 America/New_York] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ';' or ',' in /home/olegfedyshyn/business.minivns.me/logup.php on line 19
+[19-Mar-2024 09:47:48 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 23
+[19-Mar-2024 09:50:03 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/olegfedyshyn/business.minivns.me/logup.php on line 27
+[19-Mar-2024 09:50:26 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 28
+[19-Mar-2024 09:50:26 America/New_York] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in /home/olegfedyshyn/business.minivns.me/logup.php on line 28
+[19-Mar-2024 09:50:26 America/New_York] PHP Warning:  A non-numeric value encountered in /home/olegfedyshyn/business.minivns.me/logup.php on line 28
+[19-Mar-2024 09:50:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/olegfedyshyn/business.minivns.me/logup.php on line 28
+[19-Mar-2024 09:52:22 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 14:46:45 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 14:46:46 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[19-Mar-2024 14:46:54 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/index.php on line 106
+[20-Mar-2024 04:39:44 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 121
+[20-Mar-2024 04:39:51 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 121
+[20-Mar-2024 04:39:55 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 121
+[20-Mar-2024 04:39:58 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 121
+[20-Mar-2024 04:46:45 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 121
+[20-Mar-2024 04:46:45 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 130
+[20-Mar-2024 04:46:50 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 121
+[20-Mar-2024 04:46:50 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 130
+[20-Mar-2024 04:47:20 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 121
+[20-Mar-2024 04:47:20 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 130
+[20-Mar-2024 04:47:23 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 121
+[20-Mar-2024 04:47:23 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 130
+[20-Mar-2024 04:47:47 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 121
+[20-Mar-2024 04:47:47 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 130
+[20-Mar-2024 04:50:15 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 121
+[20-Mar-2024 05:05:39 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/olegfedyshyn/business.minivns.me/login-handler.php on line 51
+[20-Mar-2024 05:14:05 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 150
+[20-Mar-2024 05:16:41 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 49
+[20-Mar-2024 05:16:41 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/olegfedyshyn/business.minivns.me/login.php on line 54
+[20-Mar-2024 05:16:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/olegfedyshyn/business.minivns.me/login.php on line 54
+[20-Mar-2024 05:16:41 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/olegfedyshyn/business.minivns.me/login.php on line 54
+[20-Mar-2024 05:16:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/olegfedyshyn/business.minivns.me/login.php on line 54
+[20-Mar-2024 05:16:41 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/olegfedyshyn/business.minivns.me/login.php on line 54
+[20-Mar-2024 05:16:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/olegfedyshyn/business.minivns.me/login.php on line 54
+[20-Mar-2024 05:16:41 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/olegfedyshyn/business.minivns.me/login.php on line 55
+[20-Mar-2024 05:16:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/olegfedyshyn/business.minivns.me/login.php on line 55
+[20-Mar-2024 05:16:41 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/olegfedyshyn/business.minivns.me/login.php on line 55
+[20-Mar-2024 05:16:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/olegfedyshyn/business.minivns.me/login.php on line 55
+[20-Mar-2024 05:16:41 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/olegfedyshyn/business.minivns.me/login.php on line 56
+[20-Mar-2024 05:16:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/olegfedyshyn/business.minivns.me/login.php on line 56
+[20-Mar-2024 05:16:52 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 49
+[20-Mar-2024 05:16:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/olegfedyshyn/business.minivns.me/login.php on line 54
+[20-Mar-2024 05:16:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/olegfedyshyn/business.minivns.me/login.php on line 54
+[20-Mar-2024 05:16:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/olegfedyshyn/business.minivns.me/login.php on line 54
+[20-Mar-2024 05:16:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/olegfedyshyn/business.minivns.me/login.php on line 54
+[20-Mar-2024 05:16:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/olegfedyshyn/business.minivns.me/login.php on line 54
+[20-Mar-2024 05:16:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/olegfedyshyn/business.minivns.me/login.php on line 54
+[20-Mar-2024 05:16:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/olegfedyshyn/business.minivns.me/login.php on line 55
+[20-Mar-2024 05:16:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/olegfedyshyn/business.minivns.me/login.php on line 55
+[20-Mar-2024 05:16:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/olegfedyshyn/business.minivns.me/login.php on line 55
+[20-Mar-2024 05:16:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/olegfedyshyn/business.minivns.me/login.php on line 55
+[20-Mar-2024 05:16:52 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/olegfedyshyn/business.minivns.me/login.php on line 56
+[20-Mar-2024 05:16:52 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/olegfedyshyn/business.minivns.me/login.php on line 56
+[20-Mar-2024 05:17:50 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 98
+[20-Mar-2024 05:18:47 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 98
+[20-Mar-2024 05:31:48 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/olegfedyshyn/business.minivns.me/login.php on line 186
+[20-Mar-2024 05:31:51 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/olegfedyshyn/business.minivns.me/login.php on line 186
+[20-Mar-2024 05:46:27 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 105
+[20-Mar-2024 05:46:32 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 105
+[20-Mar-2024 05:46:39 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 105
+[20-Mar-2024 05:53:01 America/New_York] PHP Warning:  include(content-home.php): failed to open stream: No such file or directory in /home/olegfedyshyn/business.minivns.me/index.php on line 42
+[20-Mar-2024 05:53:01 America/New_York] PHP Warning:  include(content-home.php): failed to open stream: No such file or directory in /home/olegfedyshyn/business.minivns.me/index.php on line 42
+[20-Mar-2024 05:53:01 America/New_York] PHP Warning:  include(): Failed opening 'content-home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/olegfedyshyn/business.minivns.me/index.php on line 42
+[20-Mar-2024 05:53:07 America/New_York] PHP Warning:  include(content-home.php): failed to open stream: No such file or directory in /home/olegfedyshyn/business.minivns.me/index.php on line 42
+[20-Mar-2024 05:53:07 America/New_York] PHP Warning:  include(content-home.php): failed to open stream: No such file or directory in /home/olegfedyshyn/business.minivns.me/index.php on line 42
+[20-Mar-2024 05:53:07 America/New_York] PHP Warning:  include(): Failed opening 'content-home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/olegfedyshyn/business.minivns.me/index.php on line 42
+[20-Mar-2024 05:53:10 America/New_York] PHP Warning:  include(content-home.php): failed to open stream: No such file or directory in /home/olegfedyshyn/business.minivns.me/index.php on line 42
+[20-Mar-2024 05:53:10 America/New_York] PHP Warning:  include(content-home.php): failed to open stream: No such file or directory in /home/olegfedyshyn/business.minivns.me/index.php on line 42
+[20-Mar-2024 05:53:10 America/New_York] PHP Warning:  include(): Failed opening 'content-home.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/olegfedyshyn/business.minivns.me/index.php on line 42
+[20-Mar-2024 07:37:16 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 98
+[20-Mar-2024 07:37:21 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 98
+[20-Mar-2024 07:37:30 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 98
+[20-Mar-2024 07:37:51 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 105
+[20-Mar-2024 07:37:53 America/New_York] PHP Notice:  Undefined variable: login_button in /home/olegfedyshyn/business.minivns.me/login.php on line 105
